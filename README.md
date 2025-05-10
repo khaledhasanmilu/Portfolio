@@ -38,13 +38,19 @@ This portfolio is handcrafted using:
 
 ## 📸 Sneak Peek
 
-![Screenshot](./assets/images/project-1.jpg)
+![Screenshot](./wesite-demo-image/hero.png)
+![Screenshot](./wesite-demo-image/portfolio.png)
+![Screenshot](./wesite-demo-image/resume.png)
 
 ---
 
 ## 🚧 Folder Structure
-
-
+.
+├── assets/
+│ └── images/
+├── index.html
+├── style.css
+└── script.js
 
 ---
 
