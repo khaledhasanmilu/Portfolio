@@ -38,9 +38,9 @@ This portfolio is handcrafted using:
 
 ## 📸 Sneak Peek
 
-![Screenshot](./wesite-demo-image/hero.png)
-![Screenshot](./wesite-demo-image/portfolio.png)
-![Screenshot](./wesite-demo-image/resume.png)
+![Screenshot](./website-demo-image/hero.png)
+![Screenshot](./website-demo-image/portfolio.png)
+![Screenshot](./website-demo-image/resume.png)
 
 ---
 
