@@ -1,7 +1,7 @@
 # 🚀 **Welcome to Khaled's Portfolio**
 
 Welcome to the source code of my personal developer portfolio 🌐  
-Check out the live version here 👉 [khaledhasanmilu-portfolio.netlify.app](https://khaledhasanmilu.netlify.app/)
+Check out the live version here 👉 [khaledhasanmilu.netlify.app](https://khaledhasanmilu.netlify.app/)
 
 ---
 
