@@ -1,99 +1,114 @@
-# 🚀 **Welcome to Khaled's Portfolio**
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=khaledhasanmilu.Portfolio)
-<br/>
+# 🚀 Welcome to My Portfolio's Repository
+
 Welcome to the source code of my personal developer portfolio 🌐  
 Check out the live version here 👉 [khaledhasanmilu.netlify.app](https://khaledhasanmilu.netlify.app/)
 
----
-
-## 👨‍💻 **About Me**
-
-Hello! I’m **Khaled Hasan Milu**, a passionate Computer Science student and tech enthusiast from Bangladesh 🇧🇩.  
-I specialize in crafting innovative software solutions, solving challenging problems, and designing seamless user experiences. My goal is to make an impact through technology while continuously learning and growing in the field of software development.
-
----
-
-## 🧰 **Built With**
-
-This portfolio is crafted using the following technologies:
-
-- 🧱 **HTML5** – The structure of the web
-- 🎨 **CSS3** – Styling to make it visually appealing
-- ⚙️ **JavaScript** – For dynamic and interactive elements
-- 💻 Hosted on [**Netlify**](https://www.netlify.com/)
-- 🐱 Version-controlled with **GitHub**
+<p align="center">
+  <a href="https://www.linkedin.com/in/khaledhasanmilu">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:kh.milu338@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://khaledhasanmilu.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-24292e?logo=netlify&logoColor=white" alt="Portfolio">
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=khaledhasanmilu.Python-Beginner-to-Advanced" alt="Visitors">
+</p>
 
 ---
 
-## 📁 **Project Overview**
+## 👨‍💻 About Me
 
-This portfolio showcases the following sections:
+Hey there! I'm **Khaled Hasan Milu**, a passionate CSE student from Bangladesh 🇧🇩.  
+I love building digital products, automating ideas, solving real-world problems, and continuously learning about tech.
 
-- 💻 **Web Projects** – A collection of my personal and collaborative web development projects.
-- 🎨 **UI/UX Designs** – Creative and user-focused designs for websites and apps.
-- 📱 **Mobile App Concepts** – Innovative mobile app concepts and prototypes.
-- 📷 **Photography** – A visual gallery capturing moments and stories.
-- 📊 **Research Work** – I’ve been involved in research and academic work.
+I strive to design meaningful solutions that are **innovative**, **visually beautiful**, and **functionally powerful**.
 
 ---
 
-## 📸 **Screenshots**
+## 🛠 Built With
 
-A sneak peek at the various sections of the portfolio:
+This portfolio is handcrafted using:
+
+- 🧱 **HTML5** – Web structure
+- 🎨 **CSS3** – Visual styling and animations
+- ⚙️ **JavaScript** – Interactive experiences
+- ☁️ **Netlify** – Deployment
+- 🐙 **GitHub** – Version control
+
+---
+
+## 🌟 Highlights
+
+- 🔥 Interactive hero animation and scroll transitions
+- 🎯 Modular design with clear navigation
+- 🌓 Dark-themed UI with minimalistic vibes
+- 🖼 Image optimization for fast loading
+- 💬 Fully responsive design across devices
+
+---
+
+## 💼 Project Showcase
+
+- 💻 **Web Projects** — Personal and collaborative web apps
+- 🎨 **UI/UX Designs** — Clean, intuitive interfaces
+- 📱 **Mobile App Concepts** — Prototypes and wireframes
+- 📸 **Photography** — Creative shots and stories
+- 📊 **Research Work** — Academic papers and insights
+
+---
+
+## 📸 Screenshots
 
 <div align="center">
-  <img src="./website-demo-image/hero.png" alt="Hero Section" width="250" />
-  <img src="./website-demo-image/portfolio.png" alt="Portfolio Section" width="250" />
-  <img src="./website-demo-image/resume.png" alt="Resume Section" width="250" />
-  <img src="./website-demo-image/codesphere.png" alt="Codesphere Section" width="250" />
-  <img src="./website-demo-image/contact.png" alt="Contact Section" width="250" />
+  <img src="./website-demo-image/hero.png" width="240"/>
+  <img src="./website-demo-image/portfolio.png" width="240"/>
+  <img src="./website-demo-image/resume.png" width="240"/>
+  <img src="./website-demo-image/codesphere.png" width="240"/>
+  <img src="./website-demo-image/contact.png" width="240"/>
 </div>
 
 ---
 
----
+## 📬 Get in Touch
 
-## 📬 **Get In Touch**
+I'm always open to collaborations, questions, or coffee chats:
 
-Feel free to connect with me through any of the following platforms:
+- 📧 [Email Me](mailto:kh.milu338@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/khaledhasanmilu)
+- 🐱 [GitHub](https://github.com/khaledhasanmilu)
 
-- 📧 [**Email**](mailto:kh.milu338@gmail.com)
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/khaledhasanmilu)
-- 🐱 [**GitHub**](https://github.com/khaledhasanmilu)
-
-Whether you have a question, an idea, or an exciting collaboration, I'm always open to talk! Let's create something amazing together. 🚀
+Let’s create something impactful together! 💡
 
 ---
 
-## 📁 **Folder Structure**
-
-Here’s a breakdown of the folder structure used for this portfolio:
+## 🗂 Folder Structure
 
 ```bash
 .
-├── assets/                  # Images, icons, logos, and other assets
+├── assets/
 │   └── images/
-├── website-demo-image/      # Portfolio screenshots for documentation
+├── website-demo-image/
 ├── css/
-│   └── style.css            # Main stylesheet
+│   └── style.css
 ├── js/
-│   └── script.js            # JavaScript for interactivity
-├── index.html               # Main landing page
-├── README.md                # This file
-├── .gitignore               # Files ignored by Git
-└── netlify.toml             # Netlify deployment settings
+│   └── script.js
+├── index.html
+├── README.md
+├── .gitignore
+└── netlify.toml
 ```
 
-## ❤️ **Acknowledgements**
+---
 
-A heartfelt thanks to:
+## 🙏 Acknowledgements
 
-- The open-source community provides countless tools and inspiration 🙌
-- Mentors, friends, and fellow developers who supported and motivated me 💡
-- All the creators who share their knowledge and help others grow 📚
+Gratitude to:
 
-Your influence helped bring this portfolio to life.
+- 🌍 Open-source tools & contributors
+- 🧠 Mentors and peers
+- 📖 Content creators and educators
 
-> **"Code is like poetry. When done right, it’s beautiful and meaningful."**
-
+> “Code is like poetry — it can be beautiful, expressive, and powerful.”
 
